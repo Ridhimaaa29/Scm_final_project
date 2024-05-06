@@ -9,7 +9,7 @@
 <div style="max-width: 800px; margin: 0 auto; padding: 20px; background-color: #fff; border-radius: 8px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
 
   <!-- Header -->
-  <h1 style="color: #17a2b8; text-align: center; margin-bottom: 20px;">🌟 Colorful E-Commerce Website Project 🌟</h1>
+  <h1 style="color: #17a2b8; text-align: center; margin-bottom: 20px;">🌟E-Commerce Website Project 🌟</h1>
 
   <!-- Introduction -->
   <p>Welcome to our vibrant and dynamic E-Commerce Website project! This project aims to create an engaging and user-friendly online shopping platform, where users can browse through a variety of products and make purchases with ease.</p>
