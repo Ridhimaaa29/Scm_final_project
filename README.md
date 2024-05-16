@@ -18,11 +18,11 @@
   <div style="background-color: red ; padding: 10px; border-radius: 8px; margin-top: 30px;">
     <h2 style="color: red; margin-bottom: 15px;">👥 Collaborators</h2>
     <div style="margin-bottom: 10px;">
-      <img src="https://via.placeholder.com/50" alt="Ritesh bansal" style="vertical-align: middle; border-radius: 50%; margin-right: 10px;">
-      <a href="https://github.com/collaborator1" style="color: #6c757d; text-decoration: none; font-weight: bold;">rRidhima Sharma</a>
+      <img src="https://via.placeholder.com/50" alt="Ridhima Sharma" style="vertical-align: middle; border-radius: 50%; margin-right: 10px;">
+      <a href="https://github.com/collaborator1" style="color: #6c757d; text-decoration: none; font-weight: bold;">Ridhima Sharma</a>
     </div>
     <div style="margin-bottom: 10px;">
-      <img src="https://via.placeholder.com/50" alt="Ridhima sharma " style="vertical-align: middle; border-radius: 50%; margin-right: 10px;">
+      <img src="https://via.placeholder.com/50" alt="Ritesh Bansal " style="vertical-align: middle; border-radius: 50%; margin-right: 10px;">
       <a href="https://github.com/collaborator2" style="color: #6c757d; text-decoration: none; font-weight: bold;">Ritesh Bansal</a>
     </div>
     <div style="margin-bottom: 10px;">
