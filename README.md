@@ -89,12 +89,6 @@
     <p>We value your feedback! If you have any suggestions, questions, or issues, please don't hesitate to <a href="https://github.com/yourusername/e-commerce-website/issues" style="color: #6c757d; text-decoration: none; font-weight: bold;">open an issue</a> on GitHub.</p>
   </div>
 
-  <!-- License -->
-  <div style="background-color: #f1f1f1; padding: 10px; border-radius: 8px; margin-top: 30px;">
-    <h2 style="color: #007bff; margin-bottom: 15px;">📝 License</h2>
-    <p>This project is licensed under the MIT License - see the <a href="LICENSE" style="color: #6c757d; text-decoration: none; font-weight: bold;">LICENSE</a> file for details.</p>
-  </div>
-
 </div>
 
 <!-- Footer -->
