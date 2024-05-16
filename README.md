@@ -94,7 +94,7 @@
 <!-- Footer -->
 <footer style="margin-top: 30px; text-align: center; color: #6c757d;">
   <p>Thank you for checking out our Colorful E-Commerce Website project! We hope you enjoy exploring it as much as we enjoyed creating it. Happy shopping! 🛍️✨</p>
-  <p>Created with ❤️ by <a href="https://github.com/yourusername" style="color: #6c757d; text-decoration: none; font-weight: bold;">Your Name</a></p>
+  <p>Created with ❤️ by <a href="https://github.com/yourusername" style="color: #6c757d; text-decoration: none; font-weight: bold;">Vanshika Sardana , Ridhima, Ritesh, Rohit </a></p>
 </footer>
 
 </body>
