@@ -30,7 +30,7 @@
       <a href="https://github.com/collaborator3" style="color: #6c757d; text-decoration: none; font-weight: bold;">Rohit kumar yadav</a> 
     </div>
     <div style="margin-bottom: 10px;">
-      <img src="https://via.placeholder.com/50" alt="Vanshika" style="vertical-align: middle; border-radius: 50%; margin-right: 10px;">
+      <img src="https://via.placeholder.com/50" alt="Vanshika Sardana" style="vertical-align: middle; border-radius: 50%; margin-right: 10px;">
       <a href="https://github.com/collaborator4" style="color: #6c757d; text-decoration: none; font-weight: bold;">Vanshika </a>
     </div>
   </div>
