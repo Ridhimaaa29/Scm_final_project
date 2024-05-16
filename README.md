@@ -18,20 +18,20 @@
   <div style="background-color: red ; padding: 10px; border-radius: 8px; margin-top: 30px;">
     <h2 style="color: red; margin-bottom: 15px;">👥 Collaborators</h2>
     <div style="margin-bottom: 10px;">
-      <img src="https://via.placeholder.com/50" alt="Collaborator 1" style="vertical-align: middle; border-radius: 50%; margin-right: 10px;">
-      <a href="https://github.com/collaborator1" style="color: #6c757d; text-decoration: none; font-weight: bold;">Collaborator 1</a> - UI/UX Design Wizard 🎨
+      <img src="https://via.placeholder.com/50" alt="Ritesh bansal" style="vertical-align: middle; border-radius: 50%; margin-right: 10px;">
+      <a href="https://github.com/collaborator1" style="color: #6c757d; text-decoration: none; font-weight: bold;">Ritesh bansal</a>
     </div>
     <div style="margin-bottom: 10px;">
-      <img src="https://via.placeholder.com/50" alt="Collaborator 2" style="vertical-align: middle; border-radius: 50%; margin-right: 10px;">
-      <a href="https://github.com/collaborator2" style="color: #6c757d; text-decoration: none; font-weight: bold;">Collaborator 2</a> - Backend Magician 🔮
+      <img src="https://via.placeholder.com/50" alt="Ridhima sharma " style="vertical-align: middle; border-radius: 50%; margin-right: 10px;">
+      <a href="https://github.com/collaborator2" style="color: #6c757d; text-decoration: none; font-weight: bold;">Ridhima sharma</a>
     </div>
     <div style="margin-bottom: 10px;">
-      <img src="https://via.placeholder.com/50" alt="Collaborator 3" style="vertical-align: middle; border-radius: 50%; margin-right: 10px;">
-      <a href="https://github.com/collaborator3" style="color: #6c757d; text-decoration: none; font-weight: bold;">Collaborator 3</a> - Frontend Guru 💻
+      <img src="https://via.placeholder.com/50" alt="Rohit kumar yadav" style="vertical-align: middle; border-radius: 50%; margin-right: 10px;">
+      <a href="https://github.com/collaborator3" style="color: #6c757d; text-decoration: none; font-weight: bold;">Rohit kumar yadav</a> 
     </div>
     <div style="margin-bottom: 10px;">
-      <img src="https://via.placeholder.com/50" alt="Collaborator 4" style="vertical-align: middle; border-radius: 50%; margin-right: 10px;">
-      <a href="https://github.com/collaborator4" style="color: #6c757d; text-decoration: none; font-weight: bold;">Collaborator 4</a> - Marketing Maestro 📣
+      <img src="https://via.placeholder.com/50" alt="Vanshika" style="vertical-align: middle; border-radius: 50%; margin-right: 10px;">
+      <a href="https://github.com/collaborator4" style="color: #6c757d; text-decoration: none; font-weight: bold;">Vanshika </a>
     </div>
   </div>
 
@@ -50,9 +50,8 @@
   <div style="background-color: #f1f1f1; padding: 10px; border-radius: 8px; margin-top: 30px;">
     <h2 style="color: #007bff; margin-bottom: 15px;">🛠️ Technologies Used</h2>
     <ul style="margin-bottom: 0;">
-      <li style="margin-bottom: 10px;">HTML, CSS, JavaScript, React.js</li>
-      <li style="margin-bottom: 10px;">Node.js, Express.js, MongoDB</li>
-      <li style="margin-bottom: 10px;">Stripe API</li>
+      <li style="margin-bottom: 10px;">HTML, CSS, JavaScript</li>
+      <li style="margin-bottom: 10px;">Node.js</li>>
       <!-- Add more technologies here -->
     </ul>
   </div>
