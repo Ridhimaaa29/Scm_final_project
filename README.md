@@ -19,15 +19,15 @@
     <h2 style="color: red; margin-bottom: 15px;">👥 Collaborators</h2>
     <div style="margin-bottom: 10px;">
       <img src="https://via.placeholder.com/50" alt="Ritesh bansal" style="vertical-align: middle; border-radius: 50%; margin-right: 10px;">
-      <a href="https://github.com/collaborator1" style="color: #6c757d; text-decoration: none; font-weight: bold;">riteshbansal8</a>
+      <a href="https://github.com/collaborator1" style="color: #6c757d; text-decoration: none; font-weight: bold;">rRidhima Sharma</a>
     </div>
     <div style="margin-bottom: 10px;">
       <img src="https://via.placeholder.com/50" alt="Ridhima sharma " style="vertical-align: middle; border-radius: 50%; margin-right: 10px;">
-      <a href="https://github.com/collaborator2" style="color: #6c757d; text-decoration: none; font-weight: bold;">Ridhima sharma</a>
+      <a href="https://github.com/collaborator2" style="color: #6c757d; text-decoration: none; font-weight: bold;">Ritesh Bansal</a>
     </div>
     <div style="margin-bottom: 10px;">
       <img src="https://via.placeholder.com/50" alt="Rohit kumar yadav" style="vertical-align: middle; border-radius: 50%; margin-right: 10px;">
-      <a href="https://github.com/collaborator3" style="color: #6c757d; text-decoration: none; font-weight: bold;">Rohit kumar yadav</a> 
+      <a href="https://github.com/collaborator3" style="color: #6c757d; text-decoration: none; font-weight: bold;">Rohit Kumar Yadav</a> 
     </div>
     <div style="margin-bottom: 10px;">
       <img src="https://via.placeholder.com/50" alt="Vanshika Sardana" style="vertical-align: middle; border-radius: 50%; margin-right: 10px;">
