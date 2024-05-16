@@ -601,14 +601,13 @@ h1::after
 
 /*-------contact---------*/
 
-#contact
-{
-	background: #efefef;
-	padding-top: 40px;
-	padding-bottom: 40px;
-	color: #777;
-
+#contact {
+    background: #f5f5f5; /* Adjust background color */
+    padding-top: 60px; /* Increase or decrease top padding */
+    padding-bottom: 60px; /* Increase or decrease bottom padding */
+    color: #555; /* Adjust text color */
 }
+
 
 .contact-form
 {
