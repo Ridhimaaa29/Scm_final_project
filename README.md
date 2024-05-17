@@ -12,7 +12,7 @@
   <h1 style="color: #17a2b8; text-align: center; margin-bottom: 20px;">🌟E-Commerce Website Project 🌟</h1>
 
   <!-- Introduction -->
-  <p>Welcome to our vibrant and dynamic E-Commerce Website project! This project aims to create an engaging and user-friendly online shopping platform, where users can browse through a variety of products and make purchases with ease.</p>
+  <p>Welcome to our vibrant and dynamic E-Commerce Website project! This project aims to create an engaging and user-friendly online shopping platform, where users can browse through a variety of products and make purchases with ease..</p>
 
   <!-- Collaborators -->
   <div style="background-color: red ; padding: 10px; border-radius: 8px; margin-top: 30px;">
