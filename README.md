@@ -51,8 +51,6 @@
     <h2 style="color: #007bff; margin-bottom: 15px;">🛠️ Technologiess Used</h2>
     <ul style="margin-bottom: 0;">
       <li style="margin-bottom: 10px;">HTML, CSS, JavaScript</li>
-      <li style="margin-bottom: 10px;">Node.js</li>>
-      <!-- Add more technologies here -->
     </ul>
   </div>
 
